@@ -2,7 +2,7 @@
 
 👀 I'm passionate about coding and programming 💻.
 
-🌱 I’m currently learning react JS
+🌱 I am currently focusing on developing my JavaScript and Node.js skills
 
 💞️ I’m looking to collaborate on exciting projects and contribute to open-source initiatives.
 
