@@ -1,10 +1,10 @@
 👋 Hi, I’m @ronin-developer
 
-👀 I'm passionate about coding and programming 💻.
+👀 Passionate about coding and programming 💻.
 
-🌱 I am currently focusing on developing my JavaScript and Node.js skills
+🌱 Currently focusing on developing my skills
 
-💞️ I’m looking to collaborate on exciting projects and contribute to open-source initiatives.
+💞️ Looking to collaborate on exciting projects and contribute to open-source initiatives.
 
 📫 How to reach me: ronin.developer@hotmail.com
 
